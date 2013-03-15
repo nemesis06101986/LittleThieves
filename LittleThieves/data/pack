@@ -1,0 +1,320 @@
+
+images1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+LittleThieves0000
+  rotate: false
+  xy: 2, 2
+  size: 320, 240
+  orig: 320, 240
+  offset: 0, 0
+  index: -1
+Cielo0000
+  rotate: false
+  xy: 324, 2
+  size: 48, 96
+  orig: 48, 96
+  offset: 0, 0
+  index: -1
+Topo0040
+  rotate: false
+  xy: 374, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Topo0039
+  rotate: false
+  xy: 440, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Topo0038
+  rotate: false
+  xy: 324, 100
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Topo0037
+  rotate: false
+  xy: 324, 166
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Topo0036
+  rotate: false
+  xy: 390, 100
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Topo0035
+  rotate: false
+  xy: 390, 166
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Topo0034
+  rotate: false
+  xy: 2, 244
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Topo0033
+  rotate: false
+  xy: 68, 244
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Topo0032
+  rotate: false
+  xy: 134, 244
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Topo0031
+  rotate: false
+  xy: 200, 244
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Topo0030
+  rotate: false
+  xy: 266, 244
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Topo0029
+  rotate: false
+  xy: 332, 244
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Topo0027
+  rotate: false
+  xy: 398, 244
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Topo0025
+  rotate: false
+  xy: 2, 310
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Topo0024
+  rotate: false
+  xy: 68, 310
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Topo0023
+  rotate: false
+  xy: 134, 310
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Topo0022
+  rotate: false
+  xy: 200, 310
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Topo0021
+  rotate: false
+  xy: 266, 310
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Topo0020
+  rotate: false
+  xy: 332, 310
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Topo0019
+  rotate: false
+  xy: 398, 310
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Topo0018
+  rotate: false
+  xy: 2, 376
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Topo0017
+  rotate: false
+  xy: 68, 376
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Topo0016
+  rotate: false
+  xy: 134, 376
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Topo0015
+  rotate: false
+  xy: 200, 376
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Topo0014
+  rotate: false
+  xy: 266, 376
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Topo0013
+  rotate: false
+  xy: 332, 376
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Topo0012
+  rotate: false
+  xy: 398, 376
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Topo0011
+  rotate: false
+  xy: 2, 442
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Topo0010
+  rotate: false
+  xy: 68, 442
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Topo0009
+  rotate: false
+  xy: 134, 442
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Topo0008
+  rotate: false
+  xy: 200, 442
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Topo0007
+  rotate: false
+  xy: 266, 442
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Topo0006
+  rotate: false
+  xy: 332, 442
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Topo0005
+  rotate: false
+  xy: 398, 442
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Topo0004
+  rotate: false
+  xy: 2, 508
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Topo0003
+  rotate: false
+  xy: 68, 508
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Topo0002
+  rotate: false
+  xy: 134, 508
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Topo0026
+  rotate: false
+  xy: 134, 508
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Topo0001
+  rotate: false
+  xy: 200, 508
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Topo0000
+  rotate: false
+  xy: 266, 508
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+valla0000
+  rotate: false
+  xy: 456, 100
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Cesped0000
+  rotate: false
+  xy: 456, 166
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Zanahoria0000
+  rotate: false
+  xy: 464, 244
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
